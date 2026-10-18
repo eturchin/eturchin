@@ -28,8 +28,8 @@ I focus on reliable distributed services, performance optimization, database des
 | Backend | **C#, .NET 6+, ASP.NET Core**, REST API, gRPC, GraphQL |
 | Architecture | Microservices, CQRS, MediatR, SOLID, Dependency Injection, event-driven systems |
 | Databases & search | MS SQL Server, PostgreSQL, EF Core, Dapper, MongoDB, Elasticsearch |
-| Messaging & caching | RabbitMQ, MassTransit, Redis, Hangfire |
-| Infrastructure | Docker, Kubernetes, Rancher, GitLab CI/CD |
+| Messaging & caching | Kafka, RabbitMQ, MassTransit, Redis, Hangfire |
+| Infrastructure | Docker, Kubernetes, Rancher, GitLab CI/CD, GitHub |
 | Testing & observability | xUnit, NUnit, Signoz, Grafana, Git |
 
 ### Professional experience

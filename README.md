@@ -56,8 +56,6 @@ Integrations between marketplace platforms and inventory/accounting systems.
 ### Featured projects
 
 - **[FlowLab](https://github.com/eturchin/flow-lab)** — visual lab for exploring backend performance, queueing, failures, retries, and circuit breakers (.NET 10, React, PostgreSQL, SignalR).
-- **[PartnerSystem](https://github.com/eturchin/PartnerSystem)** — distributed partner commission system with .NET microservices, Kafka, PostgreSQL, and the Outbox pattern.
-- **[Task API](https://github.com/eturchin/promoos-test)** — REST API sample built with ASP.NET Core, PostgreSQL, RabbitMQ, and Docker Compose.
 
 ### Contact
 

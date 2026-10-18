@@ -53,6 +53,26 @@ Integrations between marketplace platforms and inventory/accounting systems.
 - Implemented and maintained integrations with Ozon, Wildberries, Yandex Market, and MoySklad.
 - Worked on API reliability, product and pricing synchronization, and background jobs.
 
+### Featured iGaming project
+
+#### ⚡ [Thunderfall — Slot Game & Math Engine](https://github.com/eturchin/thunderfall-slot)
+
+A **personal portfolio project** exploring the full technical lifecycle of slot-game development: from mathematical models and a deterministic game engine to an interactive client, wallet settlement, and automated verification.
+
+<p align="center">
+  <a href="https://github.com/eturchin/thunderfall-slot">
+    <img src="https://raw.githubusercontent.com/eturchin/thunderfall-slot/main/docs/images/thunderfall-desktop.png" alt="Thunderfall slot game — winter temple interface and cascade gameplay" width="850" />
+  </a>
+</p>
+
+- **Gameplay:** 6×5 cascading wins, persistent bonus multipliers, free spins, retriggers, and Bonus Buy; plus a classic 5×3 payline game.
+- **Game math:** versioned rules, RNG design, deterministic replay, reproducible Monte Carlo simulations, and RTP analysis.
+- **Backend:** **C# / .NET 10**, ASP.NET Core, PostgreSQL, EF Core; transactional wallet operations, idempotency, and round history.
+- **Frontend & quality:** React, TypeScript, PixiJS, GSAP, unit/property tests, browser tests, and performance benchmarks.
+- **Scope:** virtual credits only — an engineering demo, **not** a real-money or certified gambling product.
+
+**[Explore the repository →](https://github.com/eturchin/thunderfall-slot)** · **[Game mathematics & simulation →](https://github.com/eturchin/thunderfall-slot#algorithms-and-mathematics)**
+
 ### Featured projects
 
 - **[FlowLab](https://github.com/eturchin/flow-lab)** — visual lab for exploring backend performance, queueing, failures, retries, and circuit breakers (.NET 10, React, PostgreSQL, SignalR).
